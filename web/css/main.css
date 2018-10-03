@@ -1,0 +1,22 @@
+body {
+    background: url("../images/background.svg") fixed;
+}
+
+/*Стилизация кнопок*/
+button {
+    width: auto;
+    height: auto;
+    color: aliceblue;
+    border-radius: 50px;
+    background-color: #3565b4;
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.4), 0 4px 0 0 #0023ff;
+    margin: 3px;
+    outline: none;
+}
+
+/*Стилизация текста в ul*/
+ul {
+    font-style: italic;
+    color: green;
+    background-color: powderblue;
+}
